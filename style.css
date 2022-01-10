@@ -27,7 +27,7 @@ body{
 .item_two{background-color: #abcabc;}
 .item_three{background-color: #a0123f;}
 .s1_span{color: brown;}
-.link-button{
+.link_button{
     text-decoration: none;color: white;font-weight: 700;background-image: linear-gradient(blue, green);padding: 10px 40px;border-radius: 5px;
 }
 .mission_section{
