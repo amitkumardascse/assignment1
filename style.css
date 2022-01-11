@@ -30,9 +30,14 @@ body{
 .link_button{
     text-decoration: none;color: white;font-weight: 700;background-image: linear-gradient(blue, green);padding: 10px 40px;border-radius: 5px;
 }
+.task_section{text-align: center;}
 .mission_section{
     color: violet;
 }
 .footer_area{
     background-color: #000;
+    color: white;
+    text-align: center;
 }
+.footer_area span{color: yellow;}
+.footer_area p{color: thistle;}
